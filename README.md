@@ -63,7 +63,7 @@ DrawingApp
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/DrawingApp.git
+git clone https://github.com/Dipti-Choubey-101/DrawingApp.git
 ```
 
 ### Open in Android Studio
