@@ -12,7 +12,6 @@ import android.util.TypedValue
 import android.view.MotionEvent
 import android.view.View
 
-
 class DrawingView(context: Context, attrs:AttributeSet): View(context,attrs){
     //drawing path
     private lateinit var drawPath:FingerPath
