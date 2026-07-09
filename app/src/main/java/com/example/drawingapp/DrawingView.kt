@@ -1,6 +1,5 @@
 package com.example.drawingapp
 
-
 import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.Canvas
